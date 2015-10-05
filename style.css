@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ddd;
+  margin: 0;
+  padding: 0;
+}
+section#mmission {
+    text-align: center;
+    color: #404040;
+    font-size: 24px;
+    padding: 100px 0;
+    background-color: #fff;
+}
+
+section#retry {
+    text-align: center;
+    padding: 20px 0;
+}
+
+#retry div {
+    display: inline-block;
+    background-color: #ccc;
+    padding: 10px 50px;
+    color: #404040;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
